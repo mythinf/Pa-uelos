@@ -4,11 +4,12 @@ Emparejados es una aplicación móvil que ayuda a bailarines de Marinera Norteñ
 ![Pañuelos](assets/images/hero.png)
 
 ## ¿Cómo nace Emparejados?
-![foto1](assets/images/marinera1.jpg)
 
 Cada año el coliseo Gran Chimú (Trujillo) reúne a más de 50 mil personas del mundo de la marinera para realizar el concurso más grande de la Marinera en la cual participan más de mil parejas de todas las edades y de todas partes del Perú y el mundo.[(El Comercio)](https://elcomercio.pe/peru/la-libertad/trujillo-1-200-parejas-participaran-concurso-marinera-noticia-486606).
 
 Para el presente año (2018) se han abierto más de 100 concursos tanto noveles como nacionales y en los cuales decenas de niños, jóves y adulto mayor esperan participar con ansias.[Ver celendario de concursos](http://www.todaslassangres.com/calendarioconcursos.html)
+
+![foto1](assets/images/marinera1.jpg)
 
 ### Mi experiencia en este mundo Marinerístico
 
