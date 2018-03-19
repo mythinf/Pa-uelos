@@ -23,9 +23,6 @@ Antes de comenzar con mi investigación debo comentar que bailo Marinera desde l
 ### Buscando a mi pareja ideal ♥ (Benchmarking)
 
 **Redes sociales** : Indagandi por las redes sociales encontré muchos grupos de Facebook que ofrecen un espacio abierto para que los interesados en consursar próximamente posteen un anuncio buscando a su "pareja ideal".
-
-![post1](assets/posts-facebook/post1.png)
-![post2](assets/posts-facebook/post3.png)
 ![post3](assets/posts-facebook/post2.png)
 ![post4](assets/posts-facebook/post5.png)
 
