@@ -36,3 +36,13 @@ La forma de encontrar una pareja de baile por estos dos medio es muy parecida, e
 ### Preguntemos a los expertos (Encuestas)
 
 Luego de haber analizado las diferentes manera de encontrar una pareja de baile, era necesario conocer a mis usuarios objetivos y preguntarles su opinión acerca de una aplicación que les podría ayudar a encontrar sus parejas de baile de una forma más rápida y eficiente.
+
+Ver encuestas [aquí](https://goo.gl/forms/SgFPUgihpdCjkBDn2)
+
+### Agrupando ideas y respuestas (Affinity map)
+
+ver [aquí](https://realtimeboard.com/app/board/o9J_kztQAII=/)
+
+### Descubriendo a nuestro usuario objetivo (User persona)
+
+### Creando más ideas (Brainstorming)
