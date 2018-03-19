@@ -24,5 +24,5 @@ Antes de comenzar con mi investigación debo comentar que bailo Marinera desde l
 
 ![post1](assets/posts-facebook/post1.png)
 ![post2](assets/posts-facebook/post2.png)
-![post3](assets/posts-facebook/post5.png)
+![post3](assets/posts-facebook/post3.png)
 ![post4](assets/posts-facebook/post4.png)
