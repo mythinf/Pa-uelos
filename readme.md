@@ -18,7 +18,7 @@ Antes de comenzar con mi investigación debo comentar que bailo Marinera desde l
 ![Maythe-marinera1](assets/images/Maythe-marinera1.jpg)
 > Presentación 2015, Talent Show de la univesidad Esan.
 
-### Comencemos...
+## Comencemos...
 
 ### Buscando a mi pareja ideal ♥ (Benchmarking)
 
@@ -30,3 +30,9 @@ Antes de comenzar con mi investigación debo comentar que bailo Marinera desde l
 
 La forma de encontrar una pareja de baile por estos dos medio es muy parecida, el flujo es el siguiente
 [ver aquí](https://realtimeboard.com/app/board/o9J_kzspRrI=/)
+
+**Tinder** : Otra de las fuentes en mi investigación fue Tinder, ya que el objetivo de Emparejados es unir a dos personas para bailar Marinera, Tinder me ayudó a idear la manera del cómo dos personas sin conocerse pueden llegar a pactar un cita o simplemente conocer genten con tus mismos intereses.
+
+### Preguntemos a los expertos (Encuestas)
+
+Luego de haber analizado las diferentes manera de encontrar una pareja de baile, era necesario conocer a mis usuarios objetivos y preguntarles su opinión acerca de una aplicación que les podría ayudar a encontrar sus parejas de baile de una forma más rápida y eficiente.
