@@ -22,9 +22,9 @@ Antes de comenzar con mi investigación debo comentar que bailo Marinera desde l
 
 ### Buscando a mi pareja ideal ♥ (Benchmarking)
 
-**Redes sociales** : Indagandi por las redes sociales encontré muchos grupos de Facebook que ofrecen un espacio abierto para que los interesados en consursar próximamente posteen un anuncio buscando a su "pareja ideal".
-![post3](assets/posts-facebook/post2.png)
-![post4](assets/posts-facebook/post5.png)
+**Redes sociales** : Indagando por las redes sociales encontré muchos grupos de Facebook que ofrecen un espacio abierto para que los interesados en consursar próximamente posteen un anuncio buscando a su "pareja ideal".
+[Grupo de Facebook 1](https://www.facebook.com/groups/140547206033759/about/)
+[Grupo de Facebook 2](https://www.facebook.com/profile.php?id=100011645163495)
 
 **Googleando** : Así como en las redes sociales también encontré una página web en la cual bailarines de Tango buscan una pareja de baile.[ver página](http://www.losbailesdesalon.com/foros/buscar.html)
 
