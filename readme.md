@@ -63,7 +63,7 @@ ver [aquí](https://realtimeboard.com/app/board/o9J_kztQAII=/)
 
 - What if con solo ver videos elijo con quién quiero bailar.
 
-### Ideando la primera versión de EMPAREJADOS
+### Ideando la primera versión de EMPAREJADOS (Prototipando)
 
 - Como primeva versión, la aplicación se enfocóno en 3 funcionalidades básica
  * Mostrar videos de bailarines en sus ensayos o simplemente bailando Marinera.
@@ -72,6 +72,24 @@ ver [aquí](https://realtimeboard.com/app/board/o9J_kztQAII=/)
 
 ![screens](assets/images/version1.png)
 
-### Testing versión 1
+### Probando el prototipo en la cancha (Testing)
 
-Qué opinaron los usuarios sobre el primer prototipo, ver [aquí](https://r)
+Para la relalización de este primer testeo se les envió el [link](https://marvelapp.com/2ej3a33/screen/39843183) a diferentes usuarios que buscan una pareja de Marinera y se les pidió que envíen sus comentarios sobre qué les pareció la aplicación mediante un audio mensaje a un número de Whatsapp que se les brindó. A continuación los audios enviados por los usuarios.
+ - [Escuchar audios](https://drive.google.com/drive/folders/10Dryu98KWU5PL1wiq0VOMp2geptadUh2?usp=sharing)
+
+Usuario 1 : Ivan Lazo, profesor de Marinera.
+
+   * El usuario 1 comenta que le gustó mucho la aplicación y que sería muy útil para las personas que buscan  pareja. En su experiencia, ya que él es quien busca parejas a sus diferentes alumnos, comenta que es algo complicado encontrar pareja a las chicas y que esta aplicación le ayudaría mucho. Algo que el usuario 1 le agregaría a la aplicación sería una sección de comentarios para que las personas puedan dar opiniones sobre su experiencia bailando con la pareja que eligieron.
+
+Usuario 2 : Andrea E., bailarina de diferentes danzas peruanas.
+
+   * La usuario comenta que le gustaría ver más perfiles (más videos de personas bailando), por lo demás comenta que le gusta la aplicación.
+
+
+### Versión final del prototipo
+
+Para este versión se agregó una sección de comentarios, en la cual los usuarios podrán dar una recomentación de la persona con la que bailaron anteriormente.
+
+![prototipo](assets/images/cambio.png) ![prototipo](assets/images/Galaxy S8.png)
+
+![prototipo](assets/images/Notificación de recomendación.png)
