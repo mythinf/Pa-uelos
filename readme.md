@@ -90,6 +90,6 @@ Usuario 2 : Andrea E., bailarina de diferentes danzas peruanas.
 
 Para este versión se agregó una sección de comentarios, en la cual los usuarios podrán dar una recomentación de la persona con la que bailaron anteriormente.
 
-![prototipo](assets/images/cambio.png) ![prototipo](assets/images/Galaxy S8.png)
-
-![prototipo](assets/images/Notificación de recomendación.png)
+![prototipo](assets/prototipo/cambio.png)
+![prototipo](assets/prototipo/Galaxy S8.png)
+![prototipo](assets/prototipo/Notificación de recomendación.png)
