@@ -4,7 +4,8 @@ Emparejados es una aplicación móvil que ayuda a bailarines de Marinera Norteñ
 
 ![screens](assets/images/Pañuelos.png)
 
-## Desarrollado para [Laboratoria](http://laboratoria.la)
+## Desarrollado para
+[Laboratoria](http://laboratoria.la)
 
 ## ¿Cómo nace Emparejados?
 
