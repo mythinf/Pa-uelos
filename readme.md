@@ -1,7 +1,8 @@
 # Emparejados
+
 Emparejados es una aplicación móvil que ayuda a bailarines de Marinera Norteña a encontrar pareja de baile para sus próximos concursos.
 
-![Pañuelos](assets/images/hero.png)
+![screens](assets/images/screens.png)
 
 ## ¿Cómo nace Emparejados?
 
@@ -45,4 +46,32 @@ ver [aquí](https://realtimeboard.com/app/board/o9J_kztQAII=/)
 
 ### Descubriendo a nuestro usuario objetivo (User persona)
 
-### Creando más ideas (Brainstorming)
+![screens](assets/images/user-person.png)
+
+### Qué necesitan mis usuarios (Problems statements)
+
+- Usuarios necesitan ver recomentaciones o ver cómo baila la pareja con la que quieren ir algun concurso.
+- Usuarios necesita información actualizada las personas que buscan una pareja de baile (datos exactos como edad, disponibilidad, contantos,etc.)
+- Usuarios quisieran encontrar información de parejas de baile en un solo lugar
+- Usuarios quisieran dar recomendaciones de cómo fue su experiencia bailando con la persona con la que fueron algun concurso
+
+### The most important "How Might We"
+
+- Cómo hacer que dos personas sin conocerse bailen en un concurso de Marinera.
+
+### What if
+
+- What if con solo ver videos elijo con quién quiero bailar.
+
+### Ideando la primera versión de EMPAREJADOS
+
+- Como primeva versión, la aplicación se enfocóno en 3 funcionalidades básica
+ * Mostrar videos de bailarines en sus ensayos o simplemente bailando Marinera.
+ * Los usuarios interesado en algún video puedan hacer match.
+ * Chat para que los usuarios puedan intercambiar información.
+
+![screens](assets/images/version1.png)
+
+### Testing versión 1
+
+Qué opinaron los usuarios sobre el primer prototipo, ver [aquí](https://r)
