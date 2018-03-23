@@ -98,4 +98,4 @@ Para este versión se agregó una sección de comentarios, en la cual los usuari
 ### Landigpage
 
 Tambien se diseñó el la siguiente web con el obetivo que que más usuarios puedan descar la aplicación. Esa web será promocionada mediante redes sociales o como resultados de búsqueda en Google como "Bailar Marinera"
-[ver aquí](### Versión final del prototipo)
+[ver aquí](Versión final del prototipo)

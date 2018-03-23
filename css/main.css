@@ -3,7 +3,7 @@
 }
 
 html, body {
-  font-family: Arial, 微軟正黑體;
+  font-family: 'Nunito', sans-serif;
   margin: 0px;
   padding: 0px;
   position: relative;
@@ -27,14 +27,27 @@ header {
 
 .main-content>a {
   margin-top: 50px;
+
+}
+.image-hands{
+  text-align: center;
+}
+
+.hands{
+  width: 350px;
+  height: 150px;
 }
 
 .slogan {
-  font-weight: bold;
+font-size: 35px;
 }
 
 .subslogan {
   font-weight: 300;
+}
+.btn-content{
+  margin: 0;
+  text-align: center;
 }
 
 nav {
@@ -43,7 +56,7 @@ nav {
   top: 0px;
   width:100%;
   height: 60px;
-  background: #6C6869;
+  background:  #000000;
   color: #ffff;
   opacity: 0.95;
   font-size: 0px;
@@ -60,8 +73,7 @@ nav {
   height: 30px;
 }
 .phone{
-  height: 150px;
-  width: 90px;
+
 }
 .nav-bar {
   display: inline-block;
@@ -91,7 +103,7 @@ nav {
 .nav-bar li>a {
   text-decoration: none;
   letter-spacing: 2px;
-  color: #A80820;
+  color: #ffff;
   font-weight: bold;
 }
 
@@ -100,11 +112,28 @@ nav {
 }
 
 main {
-  background: url(../assets/prototipo/screens-final.png);
-  height: 90vh;
-  background-size: cover;
+  height: 100vh;
 }
+main div{
+  display: inline-block;
+}
+.text{
 
+  margin-left: 40px;
+  width: 500px;
+  height: 300px;
+  margin-top: 0
+  text-align: center;
+}
+.img-phone{
+  margin-left: 100px;
+  padding: 20px;
+  width: 500px;
+  text-align:left;
+}
+.phone{
+  height: 500px;
+}
 .footer {
   height: 40px;
   line-height: 40px;
@@ -127,7 +156,7 @@ main {
   height: 100px;
   text-align: center;
   color: #ffffff;
-  font-size: 0px; //因為有空白換行 所以導致指定寬度會失效
+  font-size: 0px;
 }
 
 .cta-container {
@@ -142,7 +171,7 @@ main {
   display: inline-block;
   width: 70%;
   font-size: 25px;
-  box-sizing: border-box; //元素不因為內外距而影響寬度
+  box-sizing: border-box;
 }
 
 .cta-click {
