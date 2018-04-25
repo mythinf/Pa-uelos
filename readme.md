@@ -2,7 +2,7 @@
 
 Emparejados es una aplicación móvil que ayuda a bailarines de Marinera Norteña a encontrar pareja de baile para sus próximos concursos.
 
-![screens](assets/prototipo/final-version1.png)
+![screens](https://raw.githubusercontent.com/mythinf/Pa-uelos/master/assets/prototipo/final-version1.png)
 
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
