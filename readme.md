@@ -2,7 +2,7 @@
 
 Emparejados es una aplicación móvil que ayuda a bailarines de Marinera Norteña a encontrar pareja de baile para sus próximos concursos.
 
-![screens](assets/images/final-version.png)
+![screens](assets/prototipo/final-version1.png)
 
 ## Desarrollado para
 [Laboratoria](http://laboratoria.la)
@@ -92,7 +92,7 @@ Usuario 2 : Andrea E., bailarina de diferentes danzas peruanas.
 ### Versión final del prototipo
 [ver aquí](https://app.atomic.io/d/gjEJ7AZKlt31)
 
-![prototipo](assets/prototipo/final-version1.png)
+![prototipo](assets/images/final-version.png)
 ### Landigpage
 
 Tambien se diseñó el la siguiente web con el obetivo que que más usuarios puedan descar la aplicación. Esa web será promocionada mediante redes sociales o como resultados de búsqueda en Google como "Bailar Marinera"
